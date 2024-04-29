@@ -1,0 +1,39 @@
+F:\BTS SIO 1ère année\AP\Ap Slam 2\AP DLL Mysql\AP Mysql\obj\Debug\AP Mysql.csproj.AssemblyReference.cache
+F:\BTS SIO 1ère année\AP\Ap Slam 2\AP DLL Mysql\AP Mysql\obj\Debug\AP Mysql.csproj.CoreCompileInputs.cache
+F:\BTS SIO 1ère année\AP\Ap Slam 2\AP DLL Mysql\AP Mysql\bin\Debug\AP Mysql.dll.config
+F:\BTS SIO 1ère année\AP\Ap Slam 2\AP DLL Mysql\AP Mysql\bin\Debug\AP Mysql.dll
+F:\BTS SIO 1ère année\AP\Ap Slam 2\AP DLL Mysql\AP Mysql\bin\Debug\AP Mysql.pdb
+F:\BTS SIO 1ère année\AP\Ap Slam 2\AP DLL Mysql\AP Mysql\bin\Debug\BouncyCastle.Cryptography.dll
+F:\BTS SIO 1ère année\AP\Ap Slam 2\AP DLL Mysql\AP Mysql\bin\Debug\Google.Protobuf.dll
+F:\BTS SIO 1ère année\AP\Ap Slam 2\AP DLL Mysql\AP Mysql\bin\Debug\K4os.Compression.LZ4.dll
+F:\BTS SIO 1ère année\AP\Ap Slam 2\AP DLL Mysql\AP Mysql\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\BTS SIO 1ère année\AP\Ap Slam 2\AP DLL Mysql\AP Mysql\bin\Debug\K4os.Hash.xxHash.dll
+F:\BTS SIO 1ère année\AP\Ap Slam 2\AP DLL Mysql\AP Mysql\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\BTS SIO 1ère année\AP\Ap Slam 2\AP DLL Mysql\AP Mysql\bin\Debug\MySql.Data.dll
+F:\BTS SIO 1ère année\AP\Ap Slam 2\AP DLL Mysql\AP Mysql\bin\Debug\System.Buffers.dll
+F:\BTS SIO 1ère année\AP\Ap Slam 2\AP DLL Mysql\AP Mysql\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\BTS SIO 1ère année\AP\Ap Slam 2\AP DLL Mysql\AP Mysql\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\BTS SIO 1ère année\AP\Ap Slam 2\AP DLL Mysql\AP Mysql\bin\Debug\System.IO.Pipelines.dll
+F:\BTS SIO 1ère année\AP\Ap Slam 2\AP DLL Mysql\AP Mysql\bin\Debug\System.Memory.dll
+F:\BTS SIO 1ère année\AP\Ap Slam 2\AP DLL Mysql\AP Mysql\bin\Debug\System.Numerics.Vectors.dll
+F:\BTS SIO 1ère année\AP\Ap Slam 2\AP DLL Mysql\AP Mysql\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\BTS SIO 1ère année\AP\Ap Slam 2\AP DLL Mysql\AP Mysql\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\BTS SIO 1ère année\AP\Ap Slam 2\AP DLL Mysql\AP Mysql\bin\Debug\ZstdSharp.dll
+F:\BTS SIO 1ère année\AP\Ap Slam 2\AP DLL Mysql\AP Mysql\bin\Debug\BouncyCastle.Cryptography.xml
+F:\BTS SIO 1ère année\AP\Ap Slam 2\AP DLL Mysql\AP Mysql\bin\Debug\Google.Protobuf.pdb
+F:\BTS SIO 1ère année\AP\Ap Slam 2\AP DLL Mysql\AP Mysql\bin\Debug\Google.Protobuf.xml
+F:\BTS SIO 1ère année\AP\Ap Slam 2\AP DLL Mysql\AP Mysql\bin\Debug\K4os.Compression.LZ4.xml
+F:\BTS SIO 1ère année\AP\Ap Slam 2\AP DLL Mysql\AP Mysql\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\BTS SIO 1ère année\AP\Ap Slam 2\AP DLL Mysql\AP Mysql\bin\Debug\K4os.Hash.xxHash.xml
+F:\BTS SIO 1ère année\AP\Ap Slam 2\AP DLL Mysql\AP Mysql\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\BTS SIO 1ère année\AP\Ap Slam 2\AP DLL Mysql\AP Mysql\bin\Debug\MySql.Data.xml
+F:\BTS SIO 1ère année\AP\Ap Slam 2\AP DLL Mysql\AP Mysql\bin\Debug\System.Buffers.xml
+F:\BTS SIO 1ère année\AP\Ap Slam 2\AP DLL Mysql\AP Mysql\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\BTS SIO 1ère année\AP\Ap Slam 2\AP DLL Mysql\AP Mysql\bin\Debug\System.IO.Pipelines.xml
+F:\BTS SIO 1ère année\AP\Ap Slam 2\AP DLL Mysql\AP Mysql\bin\Debug\System.Memory.xml
+F:\BTS SIO 1ère année\AP\Ap Slam 2\AP DLL Mysql\AP Mysql\bin\Debug\System.Numerics.Vectors.xml
+F:\BTS SIO 1ère année\AP\Ap Slam 2\AP DLL Mysql\AP Mysql\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\BTS SIO 1ère année\AP\Ap Slam 2\AP DLL Mysql\AP Mysql\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\BTS SIO 1ère année\AP\Ap Slam 2\AP DLL Mysql\AP Mysql\obj\Debug\AP Mysql.csproj.CopyComplete
+F:\BTS SIO 1ère année\AP\Ap Slam 2\AP DLL Mysql\AP Mysql\obj\Debug\AP Mysql.dll
+F:\BTS SIO 1ère année\AP\Ap Slam 2\AP DLL Mysql\AP Mysql\obj\Debug\AP Mysql.pdb
